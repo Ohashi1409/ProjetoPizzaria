@@ -8,3 +8,10 @@ Desenvolvimento de projeto da Udemy a fim de aprender diferentes tecnologias pro
 [![React Native](https://img.shields.io/badge/React_Native-000000?style=for-the-badge&logo=react)](https://reactnative.dev)
 [![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js)](https://nodejs.org/)
 [![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)](https://nextjs.org/)
+
+## 🚀 ***Como renderizar o projeto***
+Para inicializar o projeto, basta que você use o comando :
+
+**npm start** 
+
+no seu terminal de comando.
